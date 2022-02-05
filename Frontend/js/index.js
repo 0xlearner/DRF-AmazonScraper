@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:8000/category//";
+const API_URL = "http://localhost:8000/categories/";
 const API_BASE_URL = "http://localhost:8000/";
 
 window.onload = () => {
@@ -8,16 +8,16 @@ window.onload = () => {
 const getCategories = () => {
     fetch(API_URL, {
         method: 'GET'
-    }).then((response)=>{
+    }).then((response) => {
         return response.json();
-    }).then((data)=>{
+    }).then((data) => {
         buildCategories(data);
     })
 }
 
 const buildCategories = (categories) => {
     let categoriesContent = "";
-    for(category of categories){
+    for (category of categories) {
         const categoryImage = category.random_photo;
         const categoryLink = `/category.html?id=${category.id}`;
         categoriesContent += `
