@@ -1,0 +1,99 @@
+{
+  "date": "05/02/2022 06:27:43",
+  "category": "Camera",
+  "product_count": 9,
+  "currency": "$",
+  "base_link": "https://www.amazon.com/s?k=",
+  "products": [
+    {
+      "asin": "B07C2Z21X5",
+      "url": "https://www.amazon.com/dp/B07C2Z21X5",
+      "title": "Canon EOS Rebel T7 DSLR Camera with 18-55mm Lens | Built-in Wi-Fi | 24.1 MP CMOS Sensor | DIGIC 4+ Image Processor and Full HD Videos",
+      "price": 479.99,
+      "rating": 4.7,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/71EWRyqzw0L.__AC_SY300_SX300_QL70_ML2_.jpg",
+      "seller": "Canon Store",
+      "review_count": 1587
+    },
+    {
+      "asin": "B01MS16V42",
+      "url": "https://www.amazon.com/dp/B01MS16V42",
+      "title": "Panasonic LUMIX FZ80 4K Digital Camera, 18.1 Megapixel Video Camera, 60X Zoom DC VARIO 20-1200mm Lens, F2.8-5.9 Aperture, Power O.I.S. Stabilization, Touch Enabled 3-Inch LCD, Wi-Fi, DC-FZ80K (Black)",
+      "price": 397.99,
+      "rating": 4.5,
+      "photo": "https://m.media-amazon.com/images/I/917LEZ+it3L._AC_SY300_SX300_.jpg",
+      "seller": "Panasonic Store",
+      "review_count": 2475
+    },
+    {
+      "asin": "B079VDF7ZG",
+      "url": "https://www.amazon.com/dp/B079VDF7ZG",
+      "title": "Panasonic LUMIX GX85 4K Digital Camera, 12-32mm and 45-150mm Lens Bundle, 16 Megapixel Mirrorless Camera Kit, 5 Axis In-Body Dual Image Stabilization, 3-Inch Tilt and Touch LCD, DMC-GX85WK (Black)",
+      "price": 797.99,
+      "rating": 4.6,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/81BCS8w0v9L.__AC_SY300_SX300_QL70_ML2_.jpg",
+      "seller": "Panasonic Store",
+      "review_count": 668
+    },
+    {
+      "asin": "B08KHCZT57",
+      "url": "https://www.amazon.com/dp/B08KHCZT57",
+      "title": "Minolta Pro Shot 20 Mega Pixel HD Digital Camera with 67x Optical Zoom, Full 1080p HD Video & 16GB SD Card (Purple)",
+      "price": 400.14,
+      "rating": 4.4,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/71TVcl5XRXL.__AC_SY300_SX300_QL70_ML2_.jpg",
+      "seller": "Minolta Store",
+      "review_count": 145
+    },
+    {
+      "asin": "B01AA093UW",
+      "url": "https://www.amazon.com/dp/B01AA093UW",
+      "title": "Canon PowerShot ELPH 360 Digital Camera w/ 12x Optical Zoom and Image Stabilization - Wi-Fi & NFC Enabled (Black)",
+      "price": 282.54,
+      "rating": 4.4,
+      "photo": "https://m.media-amazon.com/images/I/71XQ+JdBvEL._AC_SX300_SY300_.jpg",
+      "seller": "Canon Store",
+      "review_count": 1251
+    },
+    {
+      "asin": "B011PKJI2Y",
+      "url": "https://www.amazon.com/dp/B011PKJI2Y",
+      "title": "Panasonic LUMIX FZ300 Long Zoom Digital Camera Features 12.1 Megapixel, 1/2.3-Inch Sensor, 4K Video, WiFi, Splash & Dustproof Camera Body, LEICA DC 24X F2.8 Zoom Lens - DMC-FZ300K - (Black) USA",
+      "price": 499.99,
+      "rating": 4.7,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/81xVbbwlqlL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "seller": "Panasonic Store",
+      "review_count": 1880
+    },
+    {
+      "asin": "B092RSZD2Q",
+      "url": "https://www.amazon.com/dp/B092RSZD2Q",
+      "title": "Arlo Pro 4 Spotlight Camera - 2 Pack - Wireless Security, 2K Video & HDR, Color Night Vision, 2 Way Audio, Wire-Free, Direct to WiFi No Hub Needed, White - VMC4250P",
+      "price": 379.99,
+      "rating": 4.1,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/61XUIy0z7sS.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "seller": "Arlo Store",
+      "review_count": 1676
+    },
+    {
+      "asin": "B0866PZN76",
+      "url": "https://www.amazon.com/dp/B0866PZN76",
+      "title": "Logitech Mevo Start, Wireless Live Streaming Camera, 1080p HD Video Quality, Intelligent App Control, Stream via LTE or Wi-Fi - Black",
+      "price": 399.95,
+      "rating": 4.5,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/61u9M4MoHqL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "seller": "Unknown Store",
+      "review_count": 1381
+    },
+    {
+      "asin": "B07RC8HPHL",
+      "url": "https://www.amazon.com/dp/B07RC8HPHL",
+      "title": "OLYMPUS Tough TG-6 Waterproof Camera, Red",
+      "price": 449.0,
+      "rating": 4.5,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/61J18Xn9bfS.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "seller": "OLYMPUS Store",
+      "review_count": 1470
+    }
+  ]
+}

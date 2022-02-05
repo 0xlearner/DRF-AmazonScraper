@@ -7,6 +7,7 @@ from .views import (
     SellerViewset,
     ProductListApiView,
     AllProductsViewset,
+    ReportView,
 )
 
 category_list = CategoryViewset.as_view({"get": "list", "post": "create"})
@@ -22,6 +23,7 @@ urlpatterns = [
     path("products/", ProductList.as_view()),
     path("products-all/", AllProductsViewset.as_view()),
     path("product-filter/", ProductListApiView.as_view()),
+    path("add-products/", ReportView.as_view()),
     path("category/", category_list, name="category-list"),
     path("category/<int:pk>/", category_detail, name="category-detail"),
 ]

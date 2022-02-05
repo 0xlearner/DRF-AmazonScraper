@@ -1,0 +1,129 @@
+{
+  "date": "04/02/2022 06:02:55",
+  "category": "Iphone",
+  "product_count": 12,
+  "currency": "$",
+  "base_link": "https://www.amazon.com/s?k=",
+  "products": [
+    {
+      "asin": "B08BGCHXR1",
+      "url": "https://www.amazon.com/dp/B08BGCHXR1",
+      "title": "Apple iPhone XR, 128GB, White - Unlocked (Renewed Premium)",
+      "price": 385.0,
+      "rating": 4.5,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/41ZjUOH6nRL.__AC_SY300_SX300_QL70_ML2_.jpg",
+      "seller": "Amazon Renewed Store",
+      "review_count": 41159
+    },
+    {
+      "asin": "B08BHSTJC5",
+      "url": "https://www.amazon.com/dp/B08BHSTJC5",
+      "title": "Apple iPhone 11 Pro, 64GB, Silver - Fully Unlocked (Renewed Premium)",
+      "price": 569.0,
+      "rating": 4.4,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/7182vuseLqS.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "seller": "Amazon Renewed Store",
+      "review_count": 296
+    },
+    {
+      "asin": "B08BJHS8K4",
+      "url": "https://www.amazon.com/dp/B08BJHS8K4",
+      "title": "Apple iPhone X, 64GB, Silver - GSM Unlocked (Renewed Premium)",
+      "price": 344.0,
+      "rating": 4.2,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/81SSw14XZHL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "seller": "Amazon Renewed Store",
+      "review_count": 17145
+    },
+    {
+      "asin": "B011SDYBZW",
+      "url": "https://www.amazon.com/dp/B011SDYBZW",
+      "title": "Apple iPhone 11, 64GB, Purple - Unlocked (Renewed Premium)",
+      "price": 489.0,
+      "rating": 4.5,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/71D0PKkpinS.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "seller": "Amazon Renewed Store",
+      "review_count": 843
+    },
+    {
+      "asin": "B08BHTMW6M",
+      "url": "https://www.amazon.com/dp/B08BHTMW6M",
+      "title": "(Renewed Premium) Apple iPhone 11 Pro Max, 64GB, Space Gray - Unlocked",
+      "price": 639.0,
+      "rating": 4.4,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/81LmL94PUvS.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "seller": "Amazon Renewed Store",
+      "review_count": 3430
+    },
+    {
+      "asin": "B08BFLCLFW",
+      "url": "https://www.amazon.com/dp/B08BFLCLFW",
+      "title": "Apple iPhone Xs, 64GB, Gold - Fully Unlocked (Renewed Premium)",
+      "price": 369.0,
+      "rating": 4.6,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/51olawmWxPL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "seller": "Amazon Renewed Store",
+      "review_count": 20
+    },
+    {
+      "asin": "B08BHXG144",
+      "url": "https://www.amazon.com/dp/B08BHXG144",
+      "title": "(Renewed Premium) Apple iPhone 11 Pro Max, 64GB, Midnight Green - Unlocked",
+      "price": 639.0,
+      "rating": 4.3,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/71yIGykJFNS.__AC_SY300_SX300_QL70_ML2_.jpg",
+      "seller": "Amazon Renewed Store",
+      "review_count": 32
+    },
+    {
+      "asin": "B078P5BK5G",
+      "url": "https://www.amazon.com/dp/B078P5BK5G",
+      "title": "Apple iPhone 8, US Version, 64GB, Gold - GSM Carriers (Renewed)",
+      "price": 486.4,
+      "rating": 4.4,
+      "photo": "https://m.media-amazon.com/images/I/51biqZP8+2L._AC_SY300_SX300_.jpg",
+      "seller": "Amazon Renewed Store",
+      "review_count": 40739
+    },
+    {
+      "asin": "B08R98BFZS",
+      "url": "https://www.amazon.com/dp/B08R98BFZS",
+      "title": "Apple iPhone SE, 64GB, Black - Fully Unlocked (Renewed Premium)",
+      "price": 329.0,
+      "rating": 4.5,
+      "photo": "https://m.media-amazon.com/images/I/81K+adaNRiL._AC_SY300_SX300_.jpg",
+      "seller": "Amazon Renewed Store",
+      "review_count": 3860
+    },
+    {
+      "asin": "B088P752V4",
+      "url": "https://www.amazon.com/dp/B088P752V4",
+      "title": "Apple iPhone 8 Plus, 64GB, Gold - Unlocked (Renewed Premium)",
+      "price": 329.0,
+      "rating": 4.4,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/51m095zShrL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "seller": "Amazon Renewed Store",
+      "review_count": 20183
+    },
+    {
+      "asin": "B08BFCV8NN",
+      "url": "https://www.amazon.com/dp/B08BFCV8NN",
+      "title": "Apple iPhone Xs, 64GB, Space Gray - Fully Unlocked (Renewed Premium)",
+      "price": 369.0,
+      "rating": 4.6,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/61RDSRXSTbL.__AC_SY300_SX300_QL70_ML2_.jpg",
+      "seller": "Amazon Renewed Store",
+      "review_count": 25
+    },
+    {
+      "asin": "B093QPJSKJ",
+      "url": "https://www.amazon.com/dp/B093QPJSKJ",
+      "title": "Nokia G10 | Android 11 | Unlocked Smartphone | 3-Day Battery | Dual SIM | US Version | 3/32GB | 6.52-Inch Screen | 13MP Triple Camera | Dusk",
+      "price": 148.0,
+      "rating": 3.8,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/81k8Mu2IyaS.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "seller": "Nokia Store",
+      "review_count": 110
+    }
+  ]
+}

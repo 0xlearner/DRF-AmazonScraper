@@ -1,0 +1,169 @@
+{
+  "date": "05/02/2022 16:39:51",
+  "category": "Lego",
+  "product_count": 16,
+  "currency": "$",
+  "base_link": "https://www.amazon.com/s?k=",
+  "products": [
+    {
+      "asin": "B00UPB9RVM",
+      "url": "https://www.amazon.com/dp/B00UPB9RVM",
+      "title": "LEGO Jurassic World Indominus Rex Breakout 75919 Building Kit",
+      "price": 599.99,
+      "rating": 4.7,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/A1PPfPXyzZL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "seller": "LEGO Store",
+      "review_count": 468
+    },
+    {
+      "asin": "B07198M22F",
+      "url": "https://www.amazon.com/dp/B07198M22F",
+      "title": "LEGO Ideas Old Fishing Store (21310) - Building Toy and Popular Gift for Fans of LEGO Sets and The Outdoors (2049 Pieces)",
+      "price": 595.0,
+      "rating": 4.9,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/71Jl9dG1ROL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "seller": "LEGO Store",
+      "review_count": 352
+    },
+    {
+      "asin": "B00HX14C7Q",
+      "url": "https://www.amazon.com/dp/B00HX14C7Q",
+      "title": "LEGO Simpsons 71006 The Simpsons House",
+      "price": 620.0,
+      "rating": 4.7,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/71LwqRolAAL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "seller": "LEGO Store",
+      "review_count": 629
+    },
+    {
+      "asin": "B00EQ7LZSY",
+      "url": "https://www.amazon.com/dp/B00EQ7LZSY",
+      "title": "LEGO Creator Expert 10234 Sydney Opera House",
+      "price": 583.0,
+      "rating": 4.7,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/91tfTIoSBxL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "seller": "LEGO Store",
+      "review_count": 125
+    },
+    {
+      "asin": "B00NHQGDZ0",
+      "url": "https://www.amazon.com/dp/B00NHQGDZ0",
+      "title": "LEGO Creator Expert Detective's Office",
+      "price": 649.9,
+      "rating": 4.8,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/71Om0U2vLEL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "seller": "LEGO Store",
+      "review_count": 316
+    },
+    {
+      "asin": "B007Q0OVA2",
+      "url": "https://www.amazon.com/dp/B007Q0OVA2",
+      "title": "LEGO Star Wars 9515 The Malevolence",
+      "price": 579.99,
+      "rating": 4.4,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/91PGGCjbw2L.__AC_SY300_SX300_QL70_ML2_.jpg",
+      "seller": "LEGO Store",
+      "review_count": 101
+    },
+    {
+      "asin": "B07PX3WW5N",
+      "url": "https://www.amazon.com/dp/B07PX3WW5N",
+      "title": "LEGO Ideas Tree House 21318 Build and Display (3036 Pieces)",
+      "price": 239.0,
+      "rating": 4.9,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/81MPRqVuZqL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "seller": "LEGO Store",
+      "review_count": 1918
+    },
+    {
+      "asin": "B00W677IOQ",
+      "url": "https://www.amazon.com/dp/B00W677IOQ",
+      "title": "LEGO Simpsons 71016 The Kwik-E-Mart Building Kit",
+      "price": 659.8,
+      "rating": 4.5,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/71F1wyuShHL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "seller": "LEGO Store",
+      "review_count": 141
+    },
+    {
+      "asin": "B00X6A8VWA",
+      "url": "https://www.amazon.com/dp/B00X6A8VWA",
+      "title": "LEGO Creator Expert Ferris Wheel 10247 Construction Set",
+      "price": 588.95,
+      "rating": 4.6,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/71e7sRntqbL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "seller": "LEGO Store",
+      "review_count": 214
+    },
+    {
+      "asin": "B002IXYSGO",
+      "url": "https://www.amazon.com/dp/B002IXYSGO",
+      "title": "LEGO Architecture Fallingwater (21005) (Discontinued by manufacturer)",
+      "price": 683.99,
+      "rating": 4.6,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/61yLFkOYl4L.__AC_SY300_SX300_QL70_ML2_.jpg",
+      "seller": "LEGO Store",
+      "review_count": 284
+    },
+    {
+      "asin": "B0095ZMTE6",
+      "url": "https://www.amazon.com/dp/B0095ZMTE6",
+      "title": "LEGO Monster Fighters Haunted House 10228",
+      "price": 719.88,
+      "rating": 4.5,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/91P59JTauSL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "seller": "LEGO Store",
+      "review_count": 215
+    },
+    {
+      "asin": "B00J4S962W",
+      "url": "https://www.amazon.com/dp/B00J4S962W",
+      "title": "LEGO Star Wars 75055 Imperial Star Destroyer Building Toy (Discontinued by Manufacturer)",
+      "price": 652.8,
+      "rating": 4.8,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/A1RwB8D2I5L.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "seller": "LEGO Store",
+      "review_count": 363
+    },
+    {
+      "asin": "B017B1B2XE",
+      "url": "https://www.amazon.com/dp/B017B1B2XE",
+      "title": "LEGO City Prison Island 60130",
+      "price": 511.99,
+      "rating": 4.5,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/612e05fXBqL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "seller": "LEGO Store",
+      "review_count": 319
+    },
+    {
+      "asin": "B009OJGLR4",
+      "url": "https://www.amazon.com/dp/B009OJGLR4",
+      "title": "LEGO Star Wars B-Wing Starfighter (10227)",
+      "price": 635.99,
+      "rating": 4.6,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/91LMvDDYCUL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "seller": "LEGO Store",
+      "review_count": 70
+    },
+    {
+      "asin": "B009K54T5S",
+      "url": "https://www.amazon.com/dp/B009K54T5S",
+      "title": "LEGO Creator Expert Winter Village Cottage 10229",
+      "price": 567.99,
+      "rating": 4.7,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/91pGFUPnqmL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "seller": "LEGO Store",
+      "review_count": 97
+    },
+    {
+      "asin": "B07H42XQGH",
+      "url": "https://www.amazon.com/dp/B07H42XQGH",
+      "title": "LEGO Hogwarts Castle (Kit 6020 Pieces)",
+      "price": 534.31,
+      "rating": 4.7,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/71obQW-NqFL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "seller": "LEGO Store",
+      "review_count": 19
+    }
+  ]
+}

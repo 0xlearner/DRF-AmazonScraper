@@ -1,0 +1,179 @@
+{
+  "date": "05/02/2022 06:26:16",
+  "category": "Laptop",
+  "product_count": 17,
+  "currency": "$",
+  "base_link": "https://www.amazon.com/s?k=",
+  "products": [
+    {
+      "asin": "B09HVC79PC",
+      "url": "https://www.amazon.com/dp/B09HVC79PC",
+      "title": "Acer Aspire 5 A515-46-R3UB | 15.6\" Full HD IPS Display | AMD Ryzen 3 3350U Quad-Core Mobile Processor | 4GB DDR4 | 128GB NVMe SSD | WiFi 6 | Backlit KB | FPR | Amazon Alexa | Windows 11 Home in S mode",
+      "price": 339.99,
+      "rating": 4.6,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/7189iXimfWL.__AC_SY300_SX300_QL70_ML2_.jpg",
+      "seller": "Acer Store",
+      "review_count": 32
+    },
+    {
+      "asin": "B09BGB358R",
+      "url": "https://www.amazon.com/dp/B09BGB358R",
+      "title": "Lenovo IdeaPad 3 Laptop, 17.3\" HD+ Display, AMD Ryzen 5 5500U, 8GB RAM, 512GB Storage, AMD Radeon 7 Graphics, Windows 11 Home, Abyss Blue",
+      "price": 619.99,
+      "rating": 4.5,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/71BciQgeaAL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "seller": "Lenovo Store",
+      "review_count": 71
+    },
+    {
+      "asin": "B09HVC79PC",
+      "url": "https://www.amazon.com/dp/B09HVC79PC",
+      "title": "Acer Aspire 5 A515-46-R3UB | 15.6\" Full HD IPS Display | AMD Ryzen 3 3350U Quad-Core Mobile Processor | 4GB DDR4 | 128GB NVMe SSD | WiFi 6 | Backlit KB | FPR | Amazon Alexa | Windows 11 Home in S mode",
+      "price": 339.99,
+      "rating": 4.6,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/7189iXimfWL.__AC_SY300_SX300_QL70_ML2_.jpg",
+      "seller": "Acer Store",
+      "review_count": 32
+    },
+    {
+      "asin": "B09QCSCXP3",
+      "url": "https://www.amazon.com/dp/B09QCSCXP3",
+      "title": "2022 Newest HP 15.6\" FHD Laptop for Business & Student, AMD Athlon Silver 3050U (up to 3.2GHz, Beat i5-7200U), 16GB RAM, 512GB SSD, AMD Radeon Graphics, HDMI, Webcam, Windows 10 + 1 Year Microsoft 365",
+      "price": 529.99,
+      "rating": 4.4,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/71YpmIWmRuL.__AC_SY300_SX300_QL70_ML2_.jpg",
+      "seller": "HP Store",
+      "review_count": 30
+    },
+    {
+      "asin": "B09G8SK2KK",
+      "url": "https://www.amazon.com/dp/B09G8SK2KK",
+      "title": "HP 14 Laptop, AMD Ryzen 5 5500U, 8 GB RAM, 256 GB SSD Storage, 14-inch Full HD Display, Windows 11 Home, Thin & Portable, Micro-Edge & Anti-Glare Screen, Long Battery Life (14-fq1025nr, 2021)",
+      "price": 459.99,
+      "rating": 4.5,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/71IOwQhjZNL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "seller": "HP Store",
+      "review_count": 681
+    },
+    {
+      "asin": "B09JTYG5RL",
+      "url": "https://www.amazon.com/dp/B09JTYG5RL",
+      "title": "[Windows 11 Home] 2021 Newest HP 17z Laptop, 17.3\" HD+ Screen, AMD Athlon Gold 3150U Processor, 16GB DDR4 RAM, 1TB Hard Disk Drive, Wi-Fi, Webcam, Zoom Meeting, HDMI, Black",
+      "price": 599.0,
+      "rating": 4.4,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/61-2YRoFCpL.__AC_SY300_SX300_QL70_ML2_.jpg",
+      "seller": "HP Store",
+      "review_count": 54
+    },
+    {
+      "asin": "B09GYN91J9",
+      "url": "https://www.amazon.com/dp/B09GYN91J9",
+      "title": "Dell Inspiron 15 3511, 15.6 inch FHD Non-Touch Laptop - Intel Core i3-1115G4, 8GB DDR4 RAM, 256GB SSD, Intel UHD Graphics, Windows 11 Home - Carbon Black (Latest Model)",
+      "price": 479.99,
+      "rating": 4.3,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/81x8wuiiloS.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "seller": "Dell Store",
+      "review_count": 36
+    },
+    {
+      "asin": "B09NLX2SMP",
+      "url": "https://www.amazon.com/dp/B09NLX2SMP",
+      "title": "2022 Newest HP 17.3\" HD+ Display, 11th Gen Intel Core i3-1115G4(Up to 4.1GHz, Beat i5-1030G7), 16GB DDR4 RAM, 1TB HDD+256GB PCIe SSD, Bluetooth, HDMI, Webcam, Windows 11, Silver, w/ 3in1 Accessories",
+      "price": 649.99,
+      "rating": 4.5,
+      "photo": "https://m.media-amazon.com/images/I/61S+-V9lowL._AC_SX300_SY300_.jpg",
+      "seller": "HP Store",
+      "review_count": 11
+    },
+    {
+      "asin": "B09BG85LRV",
+      "url": "https://www.amazon.com/dp/B09BG85LRV",
+      "title": "Lenovo IdeaPad 1 Laptop, 14.0\" HD Display, Intel Celeron N4020, 4GB RAM, 64GB Storage, Intel UHD Graphics 600, Windows 11 in S Mode, Ice Blue",
+      "price": 285.6,
+      "rating": 4.3,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/71hhgeQCrOL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "seller": "Lenovo Store",
+      "review_count": 286
+    },
+    {
+      "asin": "B09L2DPHRV",
+      "url": "https://www.amazon.com/dp/B09L2DPHRV",
+      "title": "New 2022 HP 17.3\" FHD IPS Display, 11th Gen Intel Core i5-1135G7(Beats i7-8500), Windows 11 Home, 8GB RAM, 512GB SSD, Wi-Fi 5, Bluetooth, HDMI, Webcam",
+      "price": 619.0,
+      "rating": 4.7,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/619tesoCSkL.__AC_SY300_SX300_QL70_ML2_.jpg",
+      "seller": "HP Store",
+      "review_count": 15
+    },
+    {
+      "asin": "B094L3BYRP",
+      "url": "https://www.amazon.com/dp/B094L3BYRP",
+      "title": "Dell Inspiron 15.6-inch Full HD Touch Screen AMD Ryzen 5 3450U Quad-Core 8GB RAM 256GB SSD Windows 10 Laptop",
+      "price": 518.0,
+      "rating": 4.4,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/61-yln4IXjL.__AC_SY300_SX300_QL70_ML2_.jpg",
+      "seller": "Dell Store",
+      "review_count": 22
+    },
+    {
+      "asin": "B09BG83Q5S",
+      "url": "https://www.amazon.com/dp/B09BG83Q5S",
+      "title": "Lenovo IdeaPad 3 Laptop, 15.6\" FHD Display, AMD Ryzen 5 5500U, 8GB RAM, 512GB Storage, AMD Radeon 7 Graphics, Windows 11 Home, Abyss Blue",
+      "price": 561.3,
+      "rating": 4.5,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/71CJhfgS6IL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "seller": "Lenovo Store",
+      "review_count": 12
+    },
+    {
+      "asin": "B08GHF77KF",
+      "url": "https://www.amazon.com/dp/B08GHF77KF",
+      "title": "HP 14 Laptop, AMD 3020e, 4 GB RAM, 64 GB eMMC Storage, 14-inch HD Display, Windows 10 Home in S Mode, Long Battery Life, Microsoft 365, (14-fq0070nr, 2020)",
+      "price": 308.21,
+      "rating": 4.5,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/81wQ4ufT7AL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "seller": "HP Store",
+      "review_count": 116
+    },
+    {
+      "asin": "B09BGB358R",
+      "url": "https://www.amazon.com/dp/B09BGB358R",
+      "title": "Lenovo IdeaPad 3 Laptop, 17.3\" HD+ Display, AMD Ryzen 5 5500U, 8GB RAM, 512GB Storage, AMD Radeon 7 Graphics, Windows 11 Home, Abyss Blue",
+      "price": 619.99,
+      "rating": 4.5,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/71BciQgeaAL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "seller": "Lenovo Store",
+      "review_count": 71
+    },
+    {
+      "asin": "B091KHLNWY",
+      "url": "https://www.amazon.com/dp/B091KHLNWY",
+      "title": "Lenovo IdeaPad 3 15.6\" HD (1366x768) Touchscreen Laptop, Intel Core i5-10210U, 1.6GHz, 8GB RAM, 512GB SSD, Windows 10 Home, Abyss Blue",
+      "price": 588.0,
+      "rating": 4.6,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/71QLVOeWtzS.__AC_SY300_SX300_QL70_ML2_.jpg",
+      "seller": "Lenovo Store",
+      "review_count": 63
+    },
+    {
+      "asin": "B09NL8JTB6",
+      "url": "https://www.amazon.com/dp/B09NL8JTB6",
+      "title": "HP Pavilion 15.6\" FHD Laptop (2022 Latest Model), AMD Ryzen 5 5500U (Beats i7-11370H), 16GB RAM, 512GB PCIe NVMe M.2 SSD, Thin & Portable, Micro-Edge & Anti-Glare Screen, Long Battery Life, Windows 11",
+      "price": 649.0,
+      "rating": 4.2,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/71PBF02qnbL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "seller": "HP Store",
+      "review_count": 107
+    },
+    {
+      "asin": "B08XPBTWJS",
+      "url": "https://www.amazon.com/dp/B08XPBTWJS",
+      "title": "ASUS VivoBook Flip 14 Thin and Light 2-in-1 Laptop, 14\u201d FHD Touch, 11th Gen Intel\u00a0Core i3-1115G4, 4GB RAM, 128GB SSD, Thunderbolt 4, Fingerprint, Windows 10 Home in S Mode, Indie Black, TP470EA-AS34T",
+      "price": 409.99,
+      "rating": 4.4,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/71eyqrWrDpS.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "seller": "ASUS Store",
+      "review_count": 138
+    }
+  ]
+}

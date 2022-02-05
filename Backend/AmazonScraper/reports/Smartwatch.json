@@ -1,0 +1,109 @@
+{
+  "date": "05/02/2022 06:22:53",
+  "category": "Smartwatch",
+  "product_count": 10,
+  "currency": "$",
+  "base_link": "https://www.amazon.com/s?k=",
+  "products": [
+    {
+      "asin": "B096BH6XPZ",
+      "url": "https://www.amazon.com/dp/B096BH6XPZ",
+      "title": "SAMSUNG Galaxy Watch 4 Classic 42mm Smartwatch with ECG Monitor Tracker for Health Fitness Running Sleep Cycles GPS Fall Detection LTE US Version, Black",
+      "price": 349.99,
+      "rating": 4.5,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/71x2rUTtlSL.__AC_SY300_SX300_QL70_ML2_.jpg",
+      "seller": "Samsung Electronics Store",
+      "review_count": 1913
+    },
+    {
+      "asin": "B089YVVLSW",
+      "url": "https://www.amazon.com/dp/B089YVVLSW",
+      "title": "Garmin Instinct Solar, Rugged Outdoor Smartwatch with Solar Charging Capabilities, Built-in Sports Apps and Health Monitoring, Graphite",
+      "price": 399.99,
+      "rating": 4.7,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/41lvuyToRAL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "seller": "Garmin Store",
+      "review_count": 28784
+    },
+    {
+      "asin": "B08DFLG5SP",
+      "url": "https://www.amazon.com/dp/B08DFLG5SP",
+      "title": "Fitbit Sense Advanced Smartwatch with Tools for Heart Health, Stress Management & Skin Temperature Trends, White/Gold, One Size (S & L Bands Included)",
+      "price": 199.95,
+      "rating": 4.4,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/71G5Dz-lUDL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "seller": "Fitbit Store",
+      "review_count": 26305
+    },
+    {
+      "asin": "B096BKVWZZ",
+      "url": "https://www.amazon.com/dp/B096BKVWZZ",
+      "title": "Samsung Electronics Galaxy Watch 4 Classic 42mm Smartwatch with ECG Monitor Tracker for Health Fitness Running Sleep Cycles GPS Fall Detection Bluetooth US Version, Black",
+      "price": 299.99,
+      "rating": 4.5,
+      "photo": "https://m.media-amazon.com/images/I/61yY7B+O5AS._AC_SX300_SY300_.jpg",
+      "seller": "Samsung Electronics Store",
+      "review_count": 1913
+    },
+    {
+      "asin": "B07W6RXHJG",
+      "url": "https://www.amazon.com/dp/B07W6RXHJG",
+      "title": "Garmin Venu, GPS Smartwatch with Bright Touchscreen Display, Features Music, Body Energy Monitoring, Animated Workouts, Pulse Ox Sensor and More, Rose Gold with Tan Band",
+      "price": 349.99,
+      "rating": 4.6,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/51isczcLiHL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "seller": "Garmin Store",
+      "review_count": 5351
+    },
+    {
+      "asin": "B01N2G26PF",
+      "url": "https://www.amazon.com/dp/B01N2G26PF",
+      "title": "Alpina Men's AL-282LNN4V6 Horological Smart Watch Analog Display Quartz Blue Watch",
+      "price": 399.99,
+      "rating": 4.1,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/91ldvpM0PbL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "seller": "Alpina Store",
+      "review_count": 20
+    },
+    {
+      "asin": "B08W3RYLPW",
+      "url": "https://www.amazon.com/dp/B08W3RYLPW",
+      "title": "Wahoo ELEMNT Rival Running/Multisport GPS Smartwatch",
+      "price": 329.99,
+      "rating": 4.2,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/61e4xJr9N-L.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "seller": "Wahoo Fitness Store",
+      "review_count": 12
+    },
+    {
+      "asin": "B07W8ZMXG5",
+      "url": "https://www.amazon.com/dp/B07W8ZMXG5",
+      "title": "Garmin 010-02172-11 Vivoactive 4S, Smaller-Sized GPS Smartwatch, Features Music, Body Energy Monitoring, Animated Workouts, Pulse Ox Sensors And More, Black",
+      "price": 249.99,
+      "rating": 4.6,
+      "photo": "https://m.media-amazon.com/images/I/51+Xme5bz5L._AC_SY300_SX300_.jpg",
+      "seller": "Garmin Store",
+      "review_count": 10706
+    },
+    {
+      "asin": "B075X35D8M",
+      "url": "https://www.amazon.com/dp/B075X35D8M",
+      "title": "SAMSUNG Gear Sport Smartwatch (Bluetooth), Black, SM-R600NZKAXAR \u2013 US Version with Warranty",
+      "price": 299.27,
+      "rating": 4.3,
+      "photo": "https://m.media-amazon.com/images/I/613VxryCy+L._AC_SY300_SX300_.jpg",
+      "seller": "Samsung Electronics Store",
+      "review_count": 2042
+    },
+    {
+      "asin": "B0911XHHCN",
+      "url": "https://www.amazon.com/dp/B0911XHHCN",
+      "title": "Garmin Venu 2, GPS Smartwatch with Advanced Health Monitoring and Fitness Features, Silver Bezel with GraniteBlue Case and Silicone Band",
+      "price": 349.99,
+      "rating": 4.5,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/61VENiiJLkS.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "seller": "Garmin Store",
+      "review_count": 4807
+    }
+  ]
+}

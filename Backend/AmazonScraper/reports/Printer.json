@@ -1,0 +1,69 @@
+{
+  "date": "04/02/2022 06:03:42",
+  "category": "Printer",
+  "product_count": 6,
+  "currency": "$",
+  "base_link": "https://www.amazon.com/s?k=",
+  "products": [
+    {
+      "asin": "B07SQZNSQY",
+      "url": "https://www.amazon.com/dp/B07SQZNSQY",
+      "title": "Canon PIXMA G6020 Wireless MegaTank All-in-One Printer",
+      "price": 359.0,
+      "rating": 4.3,
+      "photo": "https://m.media-amazon.com/images/I/81sbmJz5+HL._AC_SX300_SY300_.jpg",
+      "seller": "Canon Store",
+      "review_count": 4871
+    },
+    {
+      "asin": "B096N8CNBZ",
+      "url": "https://www.amazon.com/dp/B096N8CNBZ",
+      "title": "Epson EcoTank ET-2800 Wireless Color All-in-One Cartridge-Free Supertank Printer with Scan and Copy \u2013 The Ideal Basic Home Printer - White",
+      "price": 319.95,
+      "rating": 4.5,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/71vQVROVQ4L.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "seller": "Epson Store",
+      "review_count": 246
+    },
+    {
+      "asin": "B08XZQVWZW",
+      "url": "https://www.amazon.com/dp/B08XZQVWZW",
+      "title": "Canon PIXMA G620 Wireless MegaTank photo All-in-One Printer [Print, Copy, Scan], Black",
+      "price": 299.99,
+      "rating": 4.5,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/81wSTexTTGS.__AC_SY300_SX300_QL70_ML2_.jpg",
+      "seller": "Canon Store",
+      "review_count": 70
+    },
+    {
+      "asin": "B08XZPQK18",
+      "url": "https://www.amazon.com/dp/B08XZPQK18",
+      "title": "Canon GX6020 All-in-One Wireless Supertank Printer for Businesses [Print, Copy, Scan and ADF], White",
+      "price": 649.99,
+      "rating": 4.5,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/81d0J69d6AS.__AC_SY300_SX300_QL70_ML2_.jpg",
+      "seller": "Canon Store",
+      "review_count": 89
+    },
+    {
+      "asin": "B01HEMHKJA",
+      "url": "https://www.amazon.com/dp/B01HEMHKJA",
+      "title": "Brother MFC-J485DW Wireless All-In-One Color Printer w/ Print, Copy, Scan, Fax",
+      "price": 299.99,
+      "rating": 3.9,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/81IwsGZ1UGL.__AC_SY300_SX300_QL70_ML2_.jpg",
+      "seller": "Brother Store",
+      "review_count": 114
+    },
+    {
+      "asin": "B07RSHG542",
+      "url": "https://www.amazon.com/dp/B07RSHG542",
+      "title": "HP Color LaserJet Pro M454dn Printer, Double-Sided Printing & Built-in Ethernet (W1Y44A)",
+      "price": 480.0,
+      "rating": 4.4,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/716ITIseqPL.__AC_SY300_SX300_QL70_ML2_.jpg",
+      "seller": "HP Store",
+      "review_count": 219
+    }
+  ]
+}

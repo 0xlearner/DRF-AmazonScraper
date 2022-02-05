@@ -35,7 +35,6 @@ class ProductSerializer(ModelSerializer):
             "review_count",
             "category",
             "seller",
-            "photo",
         )
 
 
@@ -54,5 +53,4 @@ class ProductsAllInfoSerializer(ModelSerializer):
             "review_count",
             "category",
             "seller",
-            "photo",
         )

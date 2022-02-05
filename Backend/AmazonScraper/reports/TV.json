@@ -1,0 +1,79 @@
+{
+  "date": "05/02/2022 06:24:16",
+  "category": "TV",
+  "product_count": 7,
+  "currency": "$",
+  "base_link": "https://www.amazon.com/s?k=",
+  "products": [
+    {
+      "asin": "B08SWD2SCK",
+      "url": "https://www.amazon.com/dp/B08SWD2SCK",
+      "title": "Introducing Amazon Fire TV 43\" 4-Series 4K UHD smart TV",
+      "price": 259.99,
+      "rating": 4.6,
+      "photo": "https://m.media-amazon.com/images/I/61PrMW29K9L._AC_SY300_SX300_.jpg",
+      "seller": "Brand:Amazon",
+      "review_count": 4105
+    },
+    {
+      "asin": "B08X7L281N",
+      "url": "https://www.amazon.com/dp/B08X7L281N",
+      "title": "All-New Insignia NS-24F202NA22 24-inch F20 Series Smart Full HD 1080p Fire TV, Released 2021",
+      "price": 139.99,
+      "rating": 4.4,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/81oH8hBaMOL.__AC_SY300_SX300_QL70_ML2_.jpg",
+      "seller": "INSIGNIA Store",
+      "review_count": 620
+    },
+    {
+      "asin": "B07F981R8M",
+      "url": "https://www.amazon.com/dp/B07F981R8M",
+      "title": "TCL 32-inch 1080p Roku Smart LED TV - 32S327, 2019 Model",
+      "price": 199.99,
+      "rating": 4.6,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/71wYJc19PiL.__AC_SY300_SX300_QL70_ML2_.jpg",
+      "seller": "TCL Store",
+      "review_count": 66018
+    },
+    {
+      "asin": "B08T6DZ81T",
+      "url": "https://www.amazon.com/dp/B08T6DZ81T",
+      "title": "Introducing Amazon Fire TV 43\" Omni Series 4K UHD smart TV, hands-free with Alexa",
+      "price": 284.99,
+      "rating": 4.5,
+      "photo": "https://m.media-amazon.com/images/I/61G0phf113L._AC_SY300_SX300_.jpg",
+      "seller": "Brand:Amazon",
+      "review_count": 2265
+    },
+    {
+      "asin": "B07FPP6TB5",
+      "url": "https://www.amazon.com/dp/B07FPP6TB5",
+      "title": "Insignia NS-32DF310NA19 32-inch Smart HD TV - Fire TV",
+      "price": 149.99,
+      "rating": 4.6,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/81lj598woRL.__AC_SY300_SX300_QL70_ML2_.jpg",
+      "seller": "INSIGNIA Store",
+      "review_count": 52519
+    },
+    {
+      "asin": "B085L5L7B1",
+      "url": "https://www.amazon.com/dp/B085L5L7B1",
+      "title": "SAMSUNG 32-inch Class FRAME QLED LS03 Series - FHD Dual LED Quantum HDR Smart TV with Alexa Built-in (QN32LS03TBFXZA, 2020 Model)",
+      "price": 457.99,
+      "rating": 4.5,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/71bmukMiAEL.__AC_SY300_SX300_QL70_ML2_.jpg",
+      "seller": "SAMSUNG Store",
+      "review_count": 1424
+    },
+    {
+      "asin": "B07CL4GLQW",
+      "url": "https://www.amazon.com/dp/B07CL4GLQW",
+      "title": "SAMSUNG 32-inch Class LED Smart FHD TV 1080P (UN32N5300AFXZA, 2018 Model)",
+      "price": 227.99,
+      "rating": 4.6,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/91UsHjAPTlL.__AC_SY300_SX300_QL70_ML2_.jpg",
+      "seller": "SAMSUNG Store",
+      "review_count": 3844
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "date": "04/02/2022 05:59:49",
+  "category": "PS5",
+  "product_count": 13,
+  "currency": "$",
+  "base_link": "https://www.amazon.com/s?k=",
+  "products": [
+    {
+      "asin": "B09JHKSNNG",
+      "url": "https://www.amazon.com/dp/B09JHKSNNG",
+      "title": "Samsung Electronics 980 PRO SSD with Heatsink 2TB PCIe Gen 4 NVMe M.2 Internal Solid State Hard Drive, Heat Control, Max Speed, PS5 Compatible, MZ-V8P2T0CW",
+      "price": 349.99,
+      "rating": 4.8,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/8176dGPvOKL.__AC_SY300_SX300_QL70_ML2_.jpg",
+      "seller": "Samsung Electronics Store",
+      "review_count": 8042
+    },
+    {
+      "asin": "B0977K2C74",
+      "url": "https://www.amazon.com/dp/B0977K2C74",
+      "title": "Seagate FireCuda 530 2TB Internal Solid State Drive - M.2 PCIe Gen4 \u00d74 NVMe 1.4, PS5 Internal SSD, speeds up to 7300MB/s, 3D TLC NAND, 2550 TBW, 1.8M MTBF, Heatsink, Rescue Services (ZP2000GM3A023)",
+      "price": 399.99,
+      "rating": 4.8,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/71yESJMxS0S.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "seller": "Seagate Store",
+      "review_count": 1569
+    },
+    {
+      "asin": "B08PHSVW7K",
+      "url": "https://www.amazon.com/dp/B08PHSVW7K",
+      "title": "WD_BLACK 1TB SN850 NVMe Internal Gaming SSD Solid State Drive with Heatsink - Works with Playstation 5, Gen4 PCIe, M.2 2280, Up to 7,000 MB/s - WDS100T1XHE",
+      "price": 189.99,
+      "rating": 4.8,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/719mkEAj1IL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "seller": "WD_BLACK Store",
+      "review_count": 3013
+    },
+    {
+      "asin": "B08Z5CX6V2",
+      "url": "https://www.amazon.com/dp/B08Z5CX6V2",
+      "title": "Thrustmaster T248, Racing Wheel and Magnetic Pedals, HYBRID DRIVE, Magnetic Paddle Shifters, Dynamic Force Feedback, Screen with Racing Information (PS5, PS4, PC)",
+      "price": 399.99,
+      "rating": 4.4,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/51dN5koZrXL._SY430_SX215_QL70_ML2_.jpg",
+      "seller": "THRUSTMASTER Store",
+      "review_count": 80
+    },
+    {
+      "asin": "B09G2MZ4VR",
+      "url": "https://www.amazon.com/dp/B09G2MZ4VR",
+      "title": "Sabrent 2TB Rocket 4 Plus NVMe 4.0 Gen4 PCIe M.2 Internal Extreme Performance SSD + M.2 NVMe Heatsink for The PS5 Console (SB-RKT4P-PSHS-2TB)",
+      "price": 417.39,
+      "rating": 4.8,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/81-8D3PFaIL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "seller": "SABRENT Store",
+      "review_count": 848
+    },
+    {
+      "asin": "B01M1L2NRL",
+      "url": "https://www.amazon.com/dp/B01M1L2NRL",
+      "title": "Thrustmaster T300 RS - Gran Turismo Edition Racing Wheel (PS5,PS4,PC)",
+      "price": 449.99,
+      "rating": 4.4,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/41cCO0mcOnL._SY430_SX215_QL70_ML2_.jpg",
+      "seller": "THRUSTMASTER Store",
+      "review_count": 1375
+    },
+    {
+      "asin": "B079YBKT3H",
+      "url": "https://www.amazon.com/dp/B079YBKT3H",
+      "title": "SteelSeries Arctis Pro Wireless Gaming Headset - Lossless High Fidelity Wireless + Bluetooth for PS5/PS4 and PC - Black",
+      "price": 347.0,
+      "rating": 4.4,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/81jCqC-ddRL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "seller": "SteelSeries Store",
+      "review_count": 18134
+    },
+    {
+      "asin": "B005L0Z2BQ",
+      "url": "https://www.amazon.com/dp/B005L0Z2BQ",
+      "title": "Thrustmaster TH8A Shifter (PS5, PS4, XBOX Series X/S, One, PC)",
+      "price": 201.83,
+      "rating": 4.7,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/41HA8vHeeGL._SY430_SX215_QL70_ML2_.jpg",
+      "seller": "THRUSTMASTER Store",
+      "review_count": 4255
+    },
+    {
+      "asin": "B07PFB72NL",
+      "url": "https://www.amazon.com/dp/B07PFB72NL",
+      "title": "Logitech G923 Racing Wheel and Pedals for PS 5, PS4 and PC featuring TRUEFORCE up to 1000 Hz Force Feedback, Responsive Pedal, Dual Clutch Launch Control, and Genuine Leather Wheel Cover",
+      "price": 309.99,
+      "rating": 4.6,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/41Sat1yHFOL._SX300_SY300_QL70_ML2_.jpg",
+      "seller": "Logitech G Store",
+      "review_count": 1308
+    },
+    {
+      "asin": "B08XY93JT3",
+      "url": "https://www.amazon.com/dp/B08XY93JT3",
+      "title": "GIGABYTE AORUS Gen4 7000s SSD 2TB PCIe 4.0 NVMe M.2, Nanocarbon Coated Aluminum Heatsink, 3D TLC NAND, SSD- GP-AG70S2TB",
+      "price": 319.99,
+      "rating": 4.8,
+      "photo": "https://m.media-amazon.com/images/I/71m3KX4U+OL._AC_SX300_SY300_.jpg",
+      "seller": "Gigabyte Store",
+      "review_count": 374
+    },
+    {
+      "asin": "B07YFG9PG2",
+      "url": "https://www.amazon.com/dp/B07YFG9PG2",
+      "title": "WD_BLACK 2TB P50 Game Drive SSD - Portable External Solid State Drive, Compatible with Playstation, Xbox, PC, & Mac, Up to 2,000 MB/s - WDBA3S0020BBK-WESN",
+      "price": 359.99,
+      "rating": 4.8,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/71AA9HCXF6L.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "seller": "WD_BLACK Store",
+      "review_count": 848
+    },
+    {
+      "asin": "B08164VTWH",
+      "url": "https://www.amazon.com/dp/B08164VTWH",
+      "title": "AMD Ryzen 9 5900X 12-core, 24-Thread Unlocked Desktop Processor",
+      "price": 499.99,
+      "rating": 4.8,
+      "photo": "https://m.media-amazon.com/images/I/616VM20+AzL._AC_SX300_SY300_.jpg",
+      "seller": "AMD Store",
+      "review_count": 2352
+    },
+    {
+      "asin": "B083MNB4D8",
+      "url": "https://www.amazon.com/dp/B083MNB4D8",
+      "title": "THRUSTMASTER T-LCM Pedals (PS5, PS4, XBOX Series X/S, One, PC",
+      "price": 229.99,
+      "rating": 4.8,
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/51eadBgMJYL._SY430_SX215_QL70_ML2_.jpg",
+      "seller": "THRUSTMASTER Store",
+      "review_count": 764
+    }
+  ]
+}
