@@ -24,6 +24,6 @@ urlpatterns = [
     path("products-all/", AllProductsViewset.as_view()),
     path("product-filter/", ProductListApiView.as_view()),
     path("add-products/", ReportView.as_view()),
-    path("category/", category_list, name="category-list"),
-    path("category/<int:pk>/", category_detail, name="category-detail"),
+    path("categories/", category_list, name="categories-list"),
+    path("categories/<int:pk>/", category_detail, name="categories-detail"),
 ]
